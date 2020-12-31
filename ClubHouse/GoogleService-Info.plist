@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>962883705717-sm8ntilj17inpvjupudq5ljrdr4rlp8d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.962883705717-sm8ntilj17inpvjupudq5ljrdr4rlp8d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCyTHwmBipVP6Km_cdhQ3jZPIWCALec4eA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>962883705717</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Haomiao.ClubHouse</string>
+	<key>PROJECT_ID</key>
+	<string>clubhouse-ios13</string>
+	<key>STORAGE_BUCKET</key>
+	<string>clubhouse-ios13.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:962883705717:ios:7bac397647319a458f513c</string>
+</dict>
+</plist>
